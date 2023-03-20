@@ -2,9 +2,10 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-camargo-almeida-08b7b7140/)
 
-![joaocamargo06 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocamargo06&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocamargo06)](https://github.com/joaocamargo06/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocamargo06&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocamargo06&theme=dracula&layout=compact">
+</div>
 
 ## Tecnologias Utilizadas
 
